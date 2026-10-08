@@ -28,5 +28,25 @@
     "Field_of_study": "e",
     "skill_name": "e",
     "skill_point": 3
+  },
+  {
+    "id": 4,
+    "fullname": "abbas",
+    "email": "test@",
+    "city": "tehran",
+    "Educational_Qualification": "1",
+    "Field_of_study": "3",
+    "skill_name": "python",
+    "skill_point": 4
+  },
+  {
+    "id": 5,
+    "fullname": "abdi",
+    "email": "test3@",
+    "city": "dfd",
+    "Educational_Qualification": "ffdfd",
+    "Field_of_study": "df",
+    "skill_name": "C#",
+    "skill_point": 5
   }
 ]

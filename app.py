@@ -195,6 +195,7 @@ Choose: """))
             city_list = list(dict.fromkeys(k.city for k in karvands))
             print(f"Cities: {city_list}")
             all_skills = list(dict.fromkeys(k.skill_name for k in karvands))
+            print(f"skills: {all_skills}")
             save_report({
                 "total_karvands": total_karvands,
                 "total_skills_count": total_skills_count,
