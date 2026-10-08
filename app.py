@@ -109,6 +109,13 @@ def get_karvand_input_update(karvand):
             data.skill_point = int(skill_point)
     return data
 
+def search_karvand_by_id(skill):
+    results = [k for k in karvands if k.skill_name.lower() == skill.lower()]
+    for k in results:
+        print(f"{k.fullname} - {k.skill_name} ({k.skill_point})")
+    if not results:
+        print("No matches")
+    
 while True:
     karvands =get_karvand()
     menu = int(input("""
