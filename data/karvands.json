@@ -18,5 +18,15 @@
     "Field_of_study": "test",
     "skill_name": "d",
     "skill_point": 2
+  },
+  {
+    "id": 3,
+    "fullname": "test3",
+    "email": "test3@",
+    "city": "d",
+    "Educational_Qualification": "d",
+    "Field_of_study": "e",
+    "skill_name": "e",
+    "skill_point": 3
   }
 ]
