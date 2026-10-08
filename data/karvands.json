@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "fullname": "abbas",
+    "email": "en",
+    "city": "c",
+    "Educational_Qualification": "d",
+    "Field_of_study": "d",
+    "skill_name": "e",
+    "skill_point": 3
+  },
+  {
+    "id": 2,
+    "fullname": "test2",
+    "email": "test@",
+    "city": "tehran",
+    "Educational_Qualification": "test",
+    "Field_of_study": "test",
+    "skill_name": "d",
+    "skill_point": 2
+  }
+]
